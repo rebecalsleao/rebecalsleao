@@ -5,7 +5,7 @@
 - 🔭 Estou trabalhando na **minha nova carreira**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💪 Procurando colaborar em **projetos desafiadores**
-- 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux and Context API**
+- 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux e Context API**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
 - 💕 Meus amores: Meu esposo, cachorrinho e minha mãe
 - 🙂 Pronomes: ela/dela
