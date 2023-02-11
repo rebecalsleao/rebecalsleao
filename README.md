@@ -1,4 +1,4 @@
-<h3>**Eu sou Rebeca Lins!**</h3>
+<h3><bold>👋 Olá, eu sou Rebeca Lins!</bold></h3>
 
 <h4>Desenvolvedora Full Stack em processo de treinamento</h4>
 
