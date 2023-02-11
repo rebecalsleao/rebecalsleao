@@ -2,7 +2,7 @@
 
 Desenvolvedora Full Stack em processo de treinamento
 
-- 🔭 Atualmente estou trabalhando na **minha nova carreira**
+- 🔭 Estou trabalhando na **minha nova carreira**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💪 Estou procurando colaborar em **projetos desafiadores**
 - 💃 Veja meus projetos em **HTML5 CSS3 JavaScript React Redux and Context API**
