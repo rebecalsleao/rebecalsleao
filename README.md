@@ -10,14 +10,16 @@ Desenvolvedora Full Stack em processo de treinamento
 - 💕 Meus amores: Meu esposo, cachorrinho e mãe
 - 🙂 Pronomes: ela/dela
 
-<div>
+<section>
  <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=transparent&show_icons=false">
  </div>
  <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
  </div>
-</div>   
+  </section>
+
+   
     
 <div style="display: inline-block"><br>
  <img aling="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
