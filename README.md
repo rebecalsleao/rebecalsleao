@@ -13,7 +13,7 @@ Full Stack Developer in training process
 
 <div>
  <div>
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=panda&show_icons=false">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=transparent&show_icons=false">
  </div>
  <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
@@ -38,4 +38,3 @@ Full Stack Developer in training process
 </div>
 
 ##
-
