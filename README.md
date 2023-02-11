@@ -1,6 +1,6 @@
-**Eu sou Rebeca Lins!**
+<h3>**Eu sou Rebeca Lins!**</h3>
 
-Desenvolvedora Full Stack em processo de treinamento
+<h4>Desenvolvedora Full Stack em processo de treinamento</h4>
 
 - 🔭 Estou trabalhando na **minha nova carreira**
 - 💻 Atualmente estou aprendendo **Back-end**
