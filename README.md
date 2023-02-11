@@ -1,15 +1,14 @@
-**I’m Rebeca Lins!**
+**Eu sou Rebeca Lins!**
 
-Full Stack Developer in training process 
+Desenvolvedora Full Stack em processo de treinamento
 
-- 🔭 I’m currently working on **my new career**
-- 💻 I’m currently learning **Front-end and Back-end**
-- 👀 I’m interested in **frontend projects**
-- 💪 I’m looking to collaborate on in **challenging projects**
-- 💃 See my short projects with **HTML5 CSS3 JavaScript React Redux and Context API**
-- 📺 Fun fact: my hobbies are watching culinary reality shows and doramas
-- 💕 My loves: My husband, puppy and mother
-- 🙂 Pronouns: She/her
+- 🔭 Atualmente estou trabalhando na **minha nova carreira**
+- 💻 Atualmente estou aprendendo **Back-end**
+- 💪 Estou procurando colaborar em **projetos desafiadores**
+- 💃 Veja meus projetos em **HTML5 CSS3 JavaScript React Redux and Context API**
+- 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
+- 💕 Meus amores: Meu esposo, cachorrinho e mãe
+- 🙂 Pronomes: ela/dela
 
 <div>
  <div>
