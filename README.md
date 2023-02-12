@@ -3,6 +3,7 @@
 <h4>Desenvolvedora Full Stack em processo de treinamento</h4>
 
 - 🔭 Estou trabalhando na **minha nova carreira**
+- 😛 Migrando da **Fonoaudiologia para Desenvolvimento Web**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💪 Procurando colaborar em **projetos desafiadores**
 - 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux e Context API**
@@ -12,10 +13,10 @@
 
 <section>
  <div>
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=transparent&show_icons=false">
+<img height="150em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=transparent&show_icons=false">
  </div>
  <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalsleao&layout=compact">
  </div>
   </section>
 
