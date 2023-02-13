@@ -2,8 +2,8 @@
 
 <h4>Desenvolvedora Full Stack em processo de treinamento</h4>
 
-- 🔭 Estou trabalhando na **minha nova carreira**
-- 😛 Migrando da **Fonoaudiologia para Desenvolvimento Web**
+- 🔭 Estou trabalhando na minha **nova carreira**
+- 😛 Migrando da **Fonoaudiologia** para o **Desenvolvimento Web**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💪 Procurando colaborar em **projetos desafiadores**
 - 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux Context API Testes unitários e React Testing Library**
