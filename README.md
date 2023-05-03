@@ -8,7 +8,6 @@
 - 💪 Procurando colaborar em **projetos desafiadores**
 - 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux Context API Testes unitários e React Testing Library**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
-- 💕 Meus amores: Meu esposo, cachorrinho e minha mãe
 - 🙂 Pronomes: ela/dela
 
 <section>
