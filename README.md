@@ -6,7 +6,7 @@
 - 😛 Migrando da **Fonoaudiologia** para o **Desenvolvimento Web**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💪 Procurando colaborar em **projetos desafiadores**
-- 💃 No meu repositório veja projetos em **HTML5 CSS3 JavaScript React Redux Context API Testes unitários e React Testing Library**
+- 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários e React Testing Library**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
 - 🙂 Pronomes: ela/dela
 
