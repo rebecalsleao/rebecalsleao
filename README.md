@@ -4,9 +4,9 @@
 
 - 🔭 Estou trabalhando na minha **nova carreira**
 - 😛 Migrando da **Fonoaudiologia** para o **Desenvolvimento Web**
-- 💻 Atualmente estou aprendendo **Back-end**
+- 💻 Atualmente estou aprendendo **Ciência da Computação**
 - 💪 Procurando colaborar em **projetos desafiadores**
-- 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários e React Testing Library**
+- 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários, React Testing Library, Docker, MySQL, Node, TypeScript e Proramação Orientada a Objetos**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
 - 🙂 Pronomes: ela/dela
 
