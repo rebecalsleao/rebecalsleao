@@ -6,7 +6,7 @@
 - 😛 Migrando da **Fonoaudiologia** para o **Desenvolvimento Web**
 - 💻 Atualmente estou aprendendo **Ciência da Computação**
 - 💪 Procurando colaborar em **projetos desafiadores**
-- 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários, React Testing Library, Docker, MySQL, Node, TypeScript e Proramação Orientada a Objetos**
+- 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários, React Testing Library, Docker, MySQL, Node, TypeScript, Proramação Orientada a Objetos e Python**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
 - 🙂 Pronomes: ela/dela
 
@@ -35,6 +35,18 @@
  <img  aling="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
  <img  aling="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ 
+ <img  aling="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
                      
 </div>
 
