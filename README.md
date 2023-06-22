@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando na minha **nova carreira**
 - 😛 Migrando da **Fonoaudiologia** para o **Desenvolvimento Web**
-- 💻 Atualmente estou aprendendo **Ciência da Computação**
+- 💻 Atualmente estou aprendendo **Java**
 - 💪 Procurando colaborar em **projetos desafiadores**
 - 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários, React Testing Library, Docker, MySQL, Node, TypeScript, Proramação Orientada a Objetos e Python**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
