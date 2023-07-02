@@ -9,17 +9,6 @@
 - 💃 No meu repositório veja projetos em **HTML5, CSS3, JavaScript, React, Redux, Context API, Testes unitários, React Testing Library, Docker, MySQL, Node, TypeScript, Proramação Orientada a Objetos e Python**
 - 📺 Curiosidade: meus hobbies são assistir reality shows culinários e doramas
 - 🙂 Pronomes: ela/dela
-
-<section>
- <div>
-<img height="162em"  src="https://github-readme-stats.vercel.app/api?username=rebecalsleao&theme=transparent&show_icons=false">
- </div>
- <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalsleao&layout=compact">
- </div>
-  </section>
-
-   
     
 <div style="display: inline-block"><br>
  <img aling="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
